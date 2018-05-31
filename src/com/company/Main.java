@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println ("helowsdqwd");
         System.out.println ("hasdasdasd");
+
+        System.out.println ("hasdasdasd");
     }
 }

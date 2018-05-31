@@ -8,5 +8,6 @@ public class Main {
         System.out.println ("hasdasdasd");
 
         System.out.println ("hasdasdasd");
+        System.out.println ("hasdasdasd");
     }
 }
